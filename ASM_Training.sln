@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task03_constants_EQU", "Tas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task04_exchange_data_XCHG", "Task04_exchange_data_XCHG\Task04_exchange_data_XCHG.vcxproj", "{39AE7759-3ADF-4562-B3DB-E06E7F7B28C7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task05_ADD_SUB", "Task05_ADD_SUB\Task05_ADD_SUB.vcxproj", "{7A93CF9E-DEBA-4EAE-A4BC-207770314912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{39AE7759-3ADF-4562-B3DB-E06E7F7B28C7}.Release|x64.Build.0 = Release|x64
 		{39AE7759-3ADF-4562-B3DB-E06E7F7B28C7}.Release|x86.ActiveCfg = Release|Win32
 		{39AE7759-3ADF-4562-B3DB-E06E7F7B28C7}.Release|x86.Build.0 = Release|Win32
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Debug|x64.ActiveCfg = Debug|x64
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Debug|x64.Build.0 = Debug|x64
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Debug|x86.Build.0 = Debug|Win32
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Release|x64.ActiveCfg = Release|x64
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Release|x64.Build.0 = Release|x64
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Release|x86.ActiveCfg = Release|Win32
+		{7A93CF9E-DEBA-4EAE-A4BC-207770314912}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
