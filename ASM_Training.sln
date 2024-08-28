@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task10_bitwise_ops", "Task1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task11_shift", "Task11_shift\Task11_shift.vcxproj", "{84AC7F5A-9A09-40DD-8E81-5CD1BC193344}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task12_rotate", "Task12_rotate\Task12_rotate.vcxproj", "{54CC0A7F-AECA-425E-BF01-33E542997E9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -125,6 +127,14 @@ Global
 		{84AC7F5A-9A09-40DD-8E81-5CD1BC193344}.Release|x64.Build.0 = Release|x64
 		{84AC7F5A-9A09-40DD-8E81-5CD1BC193344}.Release|x86.ActiveCfg = Release|Win32
 		{84AC7F5A-9A09-40DD-8E81-5CD1BC193344}.Release|x86.Build.0 = Release|Win32
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Debug|x64.ActiveCfg = Debug|x64
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Debug|x64.Build.0 = Debug|x64
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Debug|x86.Build.0 = Debug|Win32
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Release|x64.ActiveCfg = Release|x64
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Release|x64.Build.0 = Release|x64
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Release|x86.ActiveCfg = Release|Win32
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +151,7 @@ Global
 		{CFAB1A70-24F0-48BE-94C7-4D94C66C4300} = {AE51AA4A-A7F7-4B33-9424-159802880A6A}
 		{58544CA6-0BF6-4C2C-816B-6F2E5E4F422F} = {AE51AA4A-A7F7-4B33-9424-159802880A6A}
 		{84AC7F5A-9A09-40DD-8E81-5CD1BC193344} = {AE51AA4A-A7F7-4B33-9424-159802880A6A}
+		{54CC0A7F-AECA-425E-BF01-33E542997E9E} = {AE51AA4A-A7F7-4B33-9424-159802880A6A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7444C727-2263-455F-92FE-500E7DF52897}
