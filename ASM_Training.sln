@@ -51,6 +51,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_Addressing_Modes", "04_A
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task20_LEA", "Task20_LEA\Task20_LEA.vcxproj", "{EA492F4B-8DDF-429D-840B-CD16962BCA87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task21_addressing_by_offset", "Task21_addressing_by_offset\Task21_addressing_by_offset.vcxproj", "{7A5EF828-0753-487E-8EF7-D27FEB7C2334}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -219,6 +221,14 @@ Global
 		{EA492F4B-8DDF-429D-840B-CD16962BCA87}.Release|x64.Build.0 = Release|x64
 		{EA492F4B-8DDF-429D-840B-CD16962BCA87}.Release|x86.ActiveCfg = Release|Win32
 		{EA492F4B-8DDF-429D-840B-CD16962BCA87}.Release|x86.Build.0 = Release|Win32
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Debug|x64.ActiveCfg = Debug|x64
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Debug|x64.Build.0 = Debug|x64
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Debug|x86.Build.0 = Debug|Win32
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Release|x64.ActiveCfg = Release|x64
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Release|x64.Build.0 = Release|x64
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Release|x86.ActiveCfg = Release|Win32
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -244,6 +254,7 @@ Global
 		{0113A118-271E-48C4-87B6-A6461D2D71E3} = {67525022-4EB8-4B6C-A254-F0FC9ECC8F9F}
 		{6B23301D-4ECB-483E-90B8-F2BBBDBD1094} = {67525022-4EB8-4B6C-A254-F0FC9ECC8F9F}
 		{EA492F4B-8DDF-429D-840B-CD16962BCA87} = {A72E4C7E-D5C3-4365-8365-510F99368E40}
+		{7A5EF828-0753-487E-8EF7-D27FEB7C2334} = {A72E4C7E-D5C3-4365-8365-510F99368E40}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7444C727-2263-455F-92FE-500E7DF52897}
