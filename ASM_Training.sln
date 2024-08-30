@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task21_addressing_by_offset
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task22_addressing_by_order", "Task22_addressing_by_order\Task22_addressing_by_order.vcxproj", "{E83B55E6-324C-4FE7-9488-3538545BF899}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task23_addressing_source_index", "Task23_addressing_source_index\Task23_addressing_source_index.vcxproj", "{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -239,6 +241,14 @@ Global
 		{E83B55E6-324C-4FE7-9488-3538545BF899}.Release|x64.Build.0 = Release|x64
 		{E83B55E6-324C-4FE7-9488-3538545BF899}.Release|x86.ActiveCfg = Release|Win32
 		{E83B55E6-324C-4FE7-9488-3538545BF899}.Release|x86.Build.0 = Release|Win32
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Debug|x64.ActiveCfg = Debug|x64
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Debug|x64.Build.0 = Debug|x64
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Debug|x86.Build.0 = Debug|Win32
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Release|x64.ActiveCfg = Release|x64
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Release|x64.Build.0 = Release|x64
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Release|x86.ActiveCfg = Release|Win32
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -266,6 +276,7 @@ Global
 		{EA492F4B-8DDF-429D-840B-CD16962BCA87} = {A72E4C7E-D5C3-4365-8365-510F99368E40}
 		{7A5EF828-0753-487E-8EF7-D27FEB7C2334} = {A72E4C7E-D5C3-4365-8365-510F99368E40}
 		{E83B55E6-324C-4FE7-9488-3538545BF899} = {A72E4C7E-D5C3-4365-8365-510F99368E40}
+		{EA4F1C9C-C6A5-4FD5-8CB1-D94B3655C7FB} = {A72E4C7E-D5C3-4365-8365-510F99368E40}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7444C727-2263-455F-92FE-500E7DF52897}
