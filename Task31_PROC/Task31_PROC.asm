@@ -1,0 +1,19 @@
+INCLUDELIB kernel32.lib
+ExitProcess PROTO
+
+.DATA
+
+.CODE
+zeroRAX PROC
+XOR RAX, RAX
+RET
+zeroRAX ENDP
+
+main PROC
+MOV RAX, 8
+CALL zeroRAX
+
+CALL ExitProcess
+main ENDP
+
+END
