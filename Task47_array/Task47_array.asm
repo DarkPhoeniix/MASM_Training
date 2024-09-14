@@ -1,0 +1,23 @@
+INCLUDELIB kernel32.lib
+ExitProcess PROTO
+
+.DATA
+nums REAL4 12.5, 25.0, 37.5, 50.0
+numf REAL4 2.0, 3.0, 4.0, 5.0
+dubs REAL8 12.5, 25.0
+dubf REAL8 2.0, 3.0
+
+.CODE
+main PROC
+    MOVAPS XMM0, XMMWORD PTR [nums]
+    MOVAPS XMM1, XMMWORD PTR [numf]
+    DIVPS XMM0, XMM1
+
+    MOVAPD XMM2, XMMWORD PTR [dubs]
+    MOVAPD XMM3, XMMWORD PTR [dubf]
+    DIVPD XMM2, XMM3
+
+    CALL ExitProcess
+main ENDP
+
+END
