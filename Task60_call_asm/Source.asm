@@ -1,0 +1,9 @@
+.CODE
+
+DoSum PROC
+    MOV RAX, RCX
+    ADD RAX, RDX
+    RET
+DoSum ENDP
+
+END
