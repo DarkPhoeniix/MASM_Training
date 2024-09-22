@@ -143,6 +143,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task59_library", "Task59_li
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task60_call_asm", "Task60_call_asm\Task60_call_asm.vcxproj", "{3FBF5BB1-D085-4598-996E-BA054BEC3B2F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task61_timing_speed", "Task61_timing_speed\Task61_timing_speed.vcxproj", "{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -631,6 +633,14 @@ Global
 		{3FBF5BB1-D085-4598-996E-BA054BEC3B2F}.Release|x64.Build.0 = Release|x64
 		{3FBF5BB1-D085-4598-996E-BA054BEC3B2F}.Release|x86.ActiveCfg = Release|Win32
 		{3FBF5BB1-D085-4598-996E-BA054BEC3B2F}.Release|x86.Build.0 = Release|Win32
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Debug|x64.ActiveCfg = Debug|x64
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Debug|x64.Build.0 = Debug|x64
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Debug|x86.Build.0 = Debug|Win32
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Release|x64.ActiveCfg = Release|x64
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Release|x64.Build.0 = Release|x64
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Release|x86.ActiveCfg = Release|Win32
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -696,6 +706,7 @@ Global
 		{B0E7DBD5-D989-438D-85E6-AA83C8706102} = {9FBC5ECB-E7DC-4D0A-83E4-A2BC0E8093BF}
 		{69D2DF68-6C98-4948-9B12-D54691493B18} = {9FBC5ECB-E7DC-4D0A-83E4-A2BC0E8093BF}
 		{3FBF5BB1-D085-4598-996E-BA054BEC3B2F} = {9FBC5ECB-E7DC-4D0A-83E4-A2BC0E8093BF}
+		{83DFE7A9-4CFA-4616-84D8-D6CBBEE9C0CD} = {9FBC5ECB-E7DC-4D0A-83E4-A2BC0E8093BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7444C727-2263-455F-92FE-500E7DF52897}
